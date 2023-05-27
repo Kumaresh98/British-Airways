@@ -1,5 +1,5 @@
 # British-Airways
-# This project is a part of the Data Science virtual internship program offered by Forage with British Airways.
+## This project is a part of the Data Science virtual internship program offered by Forage with British Airways.
 
 Predicting Customer whether Buying a ticket or not
 
